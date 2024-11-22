@@ -1,0 +1,95 @@
+,Trip,Year,organization,global_satisfaction,Budget_Category
+0,Mountain Hiking in the Swiss Alps,20,6.2,5.3,B
+1,Kayaking in Costa Brava,20,7.1,6.9,A
+2,Cycling Tour in the Pyrenees,20,7.8,7.4,A
+3,Historical Tour of Rome,20,8.5,7.0,4
+4,Cultural Immersion in Prague,20,7.7,8.6,B
+5,Art and Architecture in Barcelona,20,6.9,6.2,A
+6,Beach Vacation in the Balearic Islands,20,8.9,9.4,B
+7,Spa Retreat in the Austrian Alps,20,7.4,6.2,C
+8,Countryside Escape in Tuscany,20,7.5,7.7,B
+9,Wildlife Watching in the Delta del Ebro,20,9.4,9.2,A
+10,Northern Lights in Findland,20,7.0,5.7,D
+11,Forest Exploration in the Black Forest,20,8.1,10.0,B
+12,Gourmet Tour of Italy,20,7.0,5.7,B
+13,"Wine and Dine in Bordeaux, France",20,8.1,6.5,B
+14,Cheese and Chocolate Tour in Switzerland,20,6.8,6.9,B
+15,Mediterranean Cruise from Spain to Italy,20,8.5,7.5,C
+16,"Castle Tour in Bavaria, Germany",20,10.0,9.4,B
+17,"Vineyard Tour in the Douro Valley, Portugal",20,8.8,7.9,B
+18,Mountain Hiking in the Swiss Alps,21,8.6,6.7,B
+19,Kayaking in Costa Brava,21,8.6,8.5,A
+20,Cycling Tour in the Pyrenees,21,7.0,6.8,A
+21,Cultural Immersion in Prague,21,8.2,8.7,B
+22,Spa Retreat in the Austrian Alps,21,8.5,9.2,C
+23,Countryside Escape in Tuscany,21,5.4,4.8,B
+24,Art and Architecture in Barcelona,21,8.4,7.9,A
+25,Wildlife Watching in the Delta del Ebro,21,8.7,8.6,A
+26,Northern Lights in Findland,21,6.5,6.9,D
+27,Forest Exploration in the Black Forest,21,9.6,9.3,C
+28,Gourmet Tour of Italy,21,9.8,9.1,B
+29,"Wine and Dine in Bordeaux, France",21,8.6,7.1,B
+30,Cheese and Chocolate Tour in Switzerland,21,7.2,7.0,B
+31,Gourmet Tour of Northern Italy,21,7.1,7.5,B
+32,Mediterranean Cruise from Spain to Italy,21,6.8,5.7,C
+33,"Castle Tour in Bavaria, Germany",21,8.8,8.8,B
+34,"Vineyard Tour in the Douro Valley, Portugal",21,9.0,8.3,B
+35,Skiing in Andorra,22,7.6,5.8,B
+36,Mountain Hiking in the Swiss Alps,22,9.5,6.3,B
+37,Skiing in Southern France,22,9.0,8.7,B
+38,Kayaking in Costa Brava,22,7.7,7.1,A
+39,Cycling Tour in the Pyrenees,22,7.8,8.1,A
+40,Cultural Immersion in Prague,22,6.8,8.4,B
+41,Spa Retreat in the Austrian Alps,22,7.5,7.2,C
+42,Countryside Escape in Tuscany,22,3.8,2.9,B
+43,Skiing in Northern Catalonia,22,8.1,8.5,B
+44,Art and Architecture in Barcelona,22,7.0,5.8,A
+45,Wildlife Watching in the Delta del Ebro,22,8.4,7.0,A
+46,Northern Lights in Findland,22,5.7,6.9,D
+47,Forest Exploration in the Black Forest,22,6.8,6.7,B
+48,Gourmet Tour of Italy,22,9.9,10.0,B
+49,"Wine and Dine in Bordeaux, France",22,8.4,7.3,B
+50,Cheese and Chocolate Tour in Switzerland,22,8.0,7.1,B
+51,Mediterranean Cruise from Spain to Italy,22,7.6,8.1,C
+52,"Castle Tour in Bavaria, Germany",22,9.1,8.1,C
+53,"Vineyard Tour in the Douro Valley, Portugal",22,7.9,7.8,C
+54,Skiing in Andorra,23,4.5,5.1,B
+55,Mountain Hiking in the Swiss Alps,23,8.2,8.6,B
+56,Skiing in Southern France,23,8.5,7.5,B
+57,Kayaking in Costa Brava,23,8.5,8.5,A
+58,Cycling Tour in the Pyrenees,23,8.6,8.6,A
+59,Cultural Immersion in Prague,23,7.2,7.4,B
+60,Beach Vacation in the Balearic Islands,23,7.0,6.9,C
+61,Spa Retreat in the Austrian Alps,23,6.8,7.0,C
+62,Countryside Escape in Tuscany,23,8.8,8.2,B
+63,Skiing in Northern Catalonia,23,9.7,9.0,B
+64,Art and Architecture in Barcelona,23,7.3,5.8,A
+65,Wildlife Watching in the Delta del Ebro,23,8.8,7.9,A
+66,Northern Lights in Findland,23,4.8,4.6,D
+67,Forest Exploration in the Black Forest,23,8.5,7.6,B
+68,"Wine and Dine in Bordeaux, France",23,8.7,7.5,B
+69,Cheese and Chocolate Tour in Switzerland,23,9.0,8.8,B
+70,Gourmet Tour of Northern Italy,23,8.4,7.5,B
+71,Mediterranean Cruise from Spain to Italy,23,7.1,7.2,C
+72,"Castle Tour in Bavaria, Germany",23,9.3,10.0,B
+73,"Vineyard Tour in the Douro Valley, Portugal",23,8.0,8.0,C
+74,Mountain Hiking in the Swiss Alps,24,9.850000000000001,9.099999999999996,B
+75,Kayaking in Costa Brava,24,8.8,8.599999999999998,A
+76,Cycling Tour in the Pyrenees,24,8.600000000000001,8.949999999999998,A
+77,Cultural Immersion in Prague,24,6.749999999999999,7.300000000000001,B
+78,Art and Architecture in Barcelona,24,7.35,5.6,A
+79,Beach Vacation in the Balearic Islands,24,6.366666666666667,6.066666666666663,C
+80,Spa Retreat in the Austrian Alps,24,6.8500000000000005,7.499999999999999,C
+81,Countryside Escape in Tuscany,24,6.95,5.800000000000001,B
+82,Wildlife Watching in the Delta del Ebro,24,8.3,6.8000000000000025,A
+83,Northern Lights in Findland,24,4.150000000000002,5.199999999999999,D
+84,Forest Exploration in the Black Forest,24,7.850000000000001,5.949999999999996,B
+85,"Wine and Dine in Bordeaux, France",24,8.85,7.8999999999999995,B
+86,Cheese and Chocolate Tour in Switzerland,24,9.599999999999998,8.899999999999999,B
+87,Mediterranean Cruise from Spain to Italy,24,6.649999999999999,7.499999999999999,C
+88,"Castle Tour in Bavaria, Germany",24,8.850000000000001,9.35,B
+89,"Vineyard Tour in the Douro Valley, Portugal",24,7.550000000000001,7.95,C
+90,Gourmet Tour of Northern Italy,24,9.05,7.5,B
+91,Skiing in Andorra,24,1.4000000000000057,4.399999999999999,B
+92,Skiing in Southern France,24,8.000000000000004,6.300000000000004,B
+93,Skiing in Northern Catalonia,24,11.299999999999997,9.499999999999998,B
