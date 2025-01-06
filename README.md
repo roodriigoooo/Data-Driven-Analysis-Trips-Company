@@ -14,5 +14,3 @@ An external assessment of a Barcelona-based company organizing trips on a yearly
 - `budget_units`: Budget categories for each trip. 
 - `transactions`: Sales funnel transactions between 2020 and 2024. 
 - `analytics_data`: Web analytics data for trip subpages from the past 12 months. 
-
-**Rodrigo Sastré, Bruno Marco and Laura Rodríguez**
